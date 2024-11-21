@@ -22,6 +22,16 @@ public class PlayerHealth : MonoBehaviour
         }
     }
 
+    public void Heal(int amount)
+    {
+        currentHealth += amount;
+        if (currentHealth > maxHealth)
+        {
+            currentHealth = maxHealth;
+        }
+        Debug.Log(currentHealth);
+    }
+
     public void Die()
     {
         RestartLevel();
