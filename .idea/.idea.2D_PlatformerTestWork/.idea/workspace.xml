@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a790e306-b528-47b7-b7f0-3003fdfdb094" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.2D_PlatformerTestWork/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.2D_PlatformerTestWork/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerControl.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerControl.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +108,8 @@
       <workItem from="1732097490274" duration="31000" />
       <workItem from="1732097632003" duration="79000" />
       <workItem from="1732101959704" duration="3871000" />
-      <workItem from="1732119634334" duration="1865000" />
+      <workItem from="1732119634334" duration="2752000" />
+      <workItem from="1732193295273" duration="670000" />
     </task>
     <servers />
   </component>
