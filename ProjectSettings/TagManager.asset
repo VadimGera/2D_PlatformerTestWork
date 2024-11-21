@@ -8,6 +8,8 @@ TagManager:
   - Platform
   - Ground
   - Key
+  - Obstacle
+  - FallZone
   layers:
   - Default
   - TransparentFX
