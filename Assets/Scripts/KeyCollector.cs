@@ -5,12 +5,12 @@ using UnityEngine.UI;
 public class KeyCollector : MonoBehaviour
 {
     public TextMeshProUGUI KeyIndicator;
-    private int totalKeys;
-    private int collectedKeys = 0;
+    public int TotalKeys { get; private set; }
+    public int CollectedKeys { get; private set; } = 0;
 
     void Start()
     {
-        totalKeys = GameObject.FindGameObjectsWithTag("Key").Length;
+        TotalKeys = GameObject.FindGameObjectsWithTag("Key").Length;
 
         UpdateKeyIndicator();
     }
@@ -19,7 +19,7 @@ public class KeyCollector : MonoBehaviour
     {
         if (collision.CompareTag("Key"))
         {
-            collectedKeys++;
+            CollectedKeys++;
             Destroy(collision.gameObject);
             UpdateKeyIndicator();
         }
@@ -27,6 +27,6 @@ public class KeyCollector : MonoBehaviour
 
     void UpdateKeyIndicator()
     {
-        KeyIndicator.text = $"Собрано {collectedKeys}/{totalKeys} ключей";
+        KeyIndicator.text = $"Собрано {CollectedKeys}/{TotalKeys} ключей";
     }
 }
