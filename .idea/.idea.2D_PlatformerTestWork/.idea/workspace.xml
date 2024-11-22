@@ -6,11 +6,40 @@
   <component name="ChangeListManager">
     <list default="true" id="a790e306-b528-47b7-b7f0-3003fdfdb094" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.2D_PlatformerTestWork/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.2D_PlatformerTestWork/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Background.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Background/SpaceBackGround.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Background/SpaceBackGround.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Portal.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Crystals.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Crystals/Crystal_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Crystals/Crystal_01.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Crystals/Crystal_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Crystals/Crystal_02.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Ladders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Ladders/Ladder_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Ladders/Ladder_01.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Ladders/Ladder_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Ladders/Ladder_02.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Lever.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Lever/LeverDown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Lever/LeverDown.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Lever/LeverUp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Lever/LeverUp.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Platforms.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Platforms/Platform_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Platforms/Platform_01.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Scene.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Scene/Demo.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Scene/Demo.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Scene/DemoSettings.lighting" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Scene/DemoSettings.lighting.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Spikes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Spikes/Spike_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Spikes/Spike_01.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Spikes/Spike_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Spikes/Spike_02.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Spikes/Spike_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Spikes/Spike_04.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Spikes/Spike_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Spikes/Spike_05.png.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefubs/MovingPlatform.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefubs/MovingPlatform.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/TestScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/TestScene.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +143,7 @@
       <workItem from="1732101959704" duration="3871000" />
       <workItem from="1732119634334" duration="2752000" />
       <workItem from="1732193295273" duration="6461000" />
-      <workItem from="1732288719992" duration="6025000" />
+      <workItem from="1732288719992" duration="8839000" />
     </task>
     <servers />
   </component>
