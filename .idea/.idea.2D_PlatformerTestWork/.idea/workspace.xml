@@ -6,22 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="a790e306-b528-47b7-b7f0-3003fdfdb094" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.2D_PlatformerTestWork/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.2D_PlatformerTestWork/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Astronaut/AstroStay.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Astronaut/AstroStay.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Crystals/Crystal_03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Crystals/Crystal_03.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Platforms/Platform_02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Platforms/Platform_02.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Portal/PortalOff.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Portal/PortalOff.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Portal/PortalOn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Portal/PortalOn.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Spikes/Spike_03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Spikes/Spike_03.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/TestScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/TestScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/KeyCollector.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/KeyCollector.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Heart8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Heart8.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Background.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Background/SpaceBackGround.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Background/SpaceBackGround.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Free Pixel Space Platform Pack/Portal.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefubs/MovingPlatform.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefubs/MovingPlatform.prefab" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +114,7 @@
       <workItem from="1732101959704" duration="3871000" />
       <workItem from="1732119634334" duration="2752000" />
       <workItem from="1732193295273" duration="6461000" />
-      <workItem from="1732288719992" duration="3943000" />
+      <workItem from="1732288719992" duration="6025000" />
     </task>
     <servers />
   </component>
