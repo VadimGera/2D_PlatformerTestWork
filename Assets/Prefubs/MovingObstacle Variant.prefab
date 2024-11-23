@@ -245,7 +245,7 @@ MonoBehaviour:
   pointA: {fileID: 0}
   pointB: {fileID: 0}
   speed: 1
-  damageAmount: 20
+  damageAmount: 34
 --- !u!1001 &4987700086686631666
 PrefabInstance:
   m_ObjectHideFlags: 0
