@@ -27,6 +27,6 @@ public class KeyCollector : MonoBehaviour
 
     void UpdateKeyIndicator()
     {
-        KeyIndicator.text = $"Собрано {CollectedKeys}/{TotalKeys} кристаллов";
+        KeyIndicator.text = $"Собрано {CollectedKeys}/{TotalKeys} ключей";
     }
 }

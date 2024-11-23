@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a790e306-b528-47b7-b7f0-3003fdfdb094" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.2D_PlatformerTestWork/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.2D_PlatformerTestWork/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/KeyCollector.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/KeyCollector.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/TestScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/TestScene.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,8 +110,7 @@
       <workItem from="1732119634334" duration="2752000" />
       <workItem from="1732193295273" duration="6461000" />
       <workItem from="1732288719992" duration="9447000" />
-      <workItem from="1732342573551" duration="10205000" />
-      <workItem from="1732392501922" duration="20000" />
+      <workItem from="1732342573551" duration="9602000" />
     </task>
     <servers />
   </component>
